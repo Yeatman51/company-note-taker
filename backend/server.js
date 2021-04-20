@@ -1,3 +1,5 @@
+console.log("help");
+
 // Dependencies
 const express = require('express');
 const fs = require('fs');
