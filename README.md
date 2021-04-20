@@ -12,7 +12,9 @@ Live Demo: https://company-note-taker.herokuapp.com/
 
 This full stack application allows the end-user to quickly update notes. This application utilizes node and express servers and is hosted online through Heroku.
 You were able to create new notes with a bold header and a body section after this task or note has been completed you are also able to delete it from the saved list. The images below demonstrate the homepage, adding new tasks, and removing them from the saved list.
+
 ---
+
 ![note-taker-home.png](img/note-taker-home.png)
 
 ![note-taker.png](img/note-taker.png)
