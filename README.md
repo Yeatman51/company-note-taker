@@ -4,7 +4,7 @@
 
 Github: https://github.com/Yeatman51
 
-Repository: https://github.com/Yeatman51/team-profile-generator
+Repository: https://github.com/Yeatman51/company-note-taker
 
 Live Demo: https://company-note-taker.herokuapp.com/
 
